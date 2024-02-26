@@ -1,0 +1,65 @@
+.form {
+    background-color: #ce7bb4;
+    /* border-radius: 25px; */
+}
+
+
+body {
+    background-image: linear-gradient(to bottom right, #e9343f, #2d1433);
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZhrdtUUTNgoDsBu-k83fWXc5htT6U47MCw&usqp=CAU"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.shadow-cs {
+    box-shadow: 0 .5rem 1rem rgba(15, 5, 0, 0.80);
+}
+
+#profile {
+    background-color: rgb(233, 173, 190);
+
+}
+
+h5 {
+    color: #b93333;
+}
+
+label {
+    color: #e9dddd;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+
+h2 {
+    text-decoration: underline;
+    color: #e9dddd;
+    ;
+
+
+}
+
+#edit,
+i {
+    text-decoration: underline;
+    color: aliceblue;
+
+}
+
+#form1 {
+    /* border-radius: 25px 25px 0 0; */
+    background-color: rgb(165, 45, 91);
+}
+
+#select {
+    color: black;
+}
+
+.error {
+    color: red;
+}
+
